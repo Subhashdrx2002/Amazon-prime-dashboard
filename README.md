@@ -1,7 +1,7 @@
 # Amazon-prime-dashboard
 📊 Amazon Prime Video Dashboard (Excel + Power BI)
 
-<img src="" alt="Image Description" width="600">
+<img src="https://github.com/Subhashdrx2002/Amazon-prime-dashboard/blob/main/Amazon%20Prime_page-0001.jpg" alt="Image Description" width="600">
 
 
 
