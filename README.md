@@ -1,6 +1,8 @@
 # Amazon-prime-dashboard
 📊 Amazon Prime Video Dashboard (Excel + Power BI)
 
+<img src="" alt="Image Description" width="600">
+
 
 
 🔍 Project Overview
